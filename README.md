@@ -46,6 +46,8 @@ password: 123
 2. Add MySQL connector JAR
 3. Update DBConnection.java password
 4. Run Login.java
+5. Note:
+The MySQL Connector JAR is not included in the repository to keep the project lightweight. It can be easily downloaded from the official MySQL website.
 
 ---
 
